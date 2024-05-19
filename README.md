@@ -35,13 +35,13 @@ Found this post on LinkedIn: "Ilya Sutskever of OpenAI gave John Carmack the fol
 30. [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/pdf/2404.19756)
 
 # The GPT, Llama, and Gemini papers:
-[GPT-1](https://lnkd.in/gJ5Pe3HG)
-[GPT-2](https://lnkd.in/gatQi8Ud)
-[GPT-3](https://lnkd.in/g43GzYfZ)
-[GPT-4](https://lnkd.in/ga_xEpEj)
-[Llama-2](https://lnkd.in/gutaGW8h)
-[Tools](https://lnkd.in/gqJ3aXpS)
-[Gemini-Pro-1.5](https://lnkd.in/gbDcYp89)
+1. [GPT-1](https://lnkd.in/gJ5Pe3HG)
+2. [GPT-2](https://lnkd.in/gatQi8Ud)
+3. [GPT-3](https://lnkd.in/g43GzYfZ)
+4. [GPT-4](https://lnkd.in/ga_xEpEj)
+5. [Llama-2](https://lnkd.in/gutaGW8h)
+6. [Tools](https://lnkd.in/gqJ3aXpS)
+7. [Gemini-Pro-1.5](https://lnkd.in/gbDcYp89)
 
 [DeepLearning.AI: Agentic Design Patterns Part 1](https://lnkd.in/gphZ6Y5s)
 Four AI agent strategies that improve GPT-4 and GPT-3.5 performance
