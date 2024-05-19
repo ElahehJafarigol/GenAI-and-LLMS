@@ -5,7 +5,8 @@ This is a repository for resources and projects on GenAI and LLMs
 [A Primer on Generative AI (GenAI)](https://hashcollision.substack.com/p/a-primer-on-generative-ai-genai?r=854n6&utm_campaign=post&utm_medium=web&triedRedirect=true)
 ![image](https://github.com/ElahehJafarigol/GenAI-and-LLMS/assets/64182149/5dc8e972-3019-423c-b3bb-9adc2dfe5d20)
 
-Found this post on LinkedIn: "Ilya Sutskever of OpenAI gave John Carmack the following reading list of approximately 30 research papers and said, ‘If you really learn all of these, you’ll know 90% of what matters today in AI.’ I have added a few more LLM papers that potentially fill the remaining ~9%" by Bhairav M.
+# Reading list
+I Found this post on LinkedIn: "Ilya Sutskever of OpenAI gave John Carmack the following reading list of approximately 30 research papers and said, ‘If you really learn all of these, you’ll know 90% of what matters today in AI.’ I have added a few more LLM papers that potentially fill the remaining ~9%" by Bhairav M.
 
 1. [The Annotated Transformer](https://nlp.seas.harvard.edu/annotated-transformer/)
 2. [The First Law of Complexodynamics](https://scottaaronson.blog/?p=762)
