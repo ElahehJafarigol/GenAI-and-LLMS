@@ -50,3 +50,8 @@ I Found this post on LinkedIn: "Ilya Sutskever of OpenAI gave John Carmack the f
 
 [DeepLearning.AI: Agentic Design Patterns Part 1](https://lnkd.in/gphZ6Y5s)
 Four AI agent strategies that improve GPT-4 and GPT-3.5 performance
+
+# Surveys
+1. [Large Language Models: A Survey](https://ar5iv.labs.arxiv.org/html/2402.06196)
+2. [A Survey of Large Language Models](https://ar5iv.labs.arxiv.org/html/2303.18223)
+3. [A Comprehensive Overview of Large Language Models](https://ar5iv.labs.arxiv.org/html/2307.06435)
